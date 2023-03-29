@@ -1,3 +1,3 @@
 # Unit-Converter
   
-Unit converter program is a python Tkinter based project. It generally converts one type of unit to another unit. Such as m to km, cm to m, …etc.  
+This is a project based on Python Tkinter. Its primary function is to convert a specific type of measurement unit into another unit, for instance, meters to kilometers, centimeters to meters, and so on. The program has four main sections: currency, distance, temperature, and weight unit converters.
